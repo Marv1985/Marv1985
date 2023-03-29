@@ -1,6 +1,6 @@
 ### Hi, I'm Marv! 👋 
 
-I'm a front-end web developer. Here is my tech stack -
+I'm a self-taught front-end web developer. Here is my tech stack -
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
